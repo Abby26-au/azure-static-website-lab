@@ -9,11 +9,11 @@ A hands-on lab: I built a static site in VS Code, served it from the Azure Stora
 | **Tools** | Windows PC, Visual Studio Code, Azure Portal, Azure CLI, web browser |
 | **Skills shown** | Cloud hosting, endpoint troubleshooting, storage access control, documentation |
 
-📄 **Full write-up (PDF):** [docs/Azure_Static_Website_Lab.pdf](docs/Azure_Static_Website_Lab.pdf)
+📄  **Full write-up (PDF):** [Azure_Static_Website_Lab.pdf](Azure_Static_Website_Lab.pdf) 
 
 ## Demo video
 
-_Video coming soon._
+[![Watch the demo](images/live-site.png)](https://www.loom.com/share/f8957f13f31d4a84a5b88bc552487e61)
 
 ## 1. Objective
 
